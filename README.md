@@ -92,4 +92,4 @@ The **DiceGameInterface** class is an interface defining the contract for a dice
 
 The Dice Game is a simple and interactive JavaFX application that demonstrates basic user input, dice rolling, and game logic. The code structure follows a modular design, separating concerns between the **Dice** , **DiceGameInterface**, **GameLogic** , and **DiceGame** classes. The use of JavaFX components provides a visually appealing interface for the user to interact with the game.
 
-![]([RackMultipart20231222-1-nke4x6_html_92774c971b786a48.png](https://github.com/FavioJasso/DiceGame/blob/main/DiceGameUML.drawio.png)https://github.com/FavioJasso/DiceGame/blob/main/DiceGameUML.drawio.png)
+![Preview](https://github.com/FavioJasso/DiceGame/blob/main/DiceGameUML.drawio.png)
