@@ -97,4 +97,5 @@ The Dice Game is a simple and interactive JavaFX application that demonstrates b
 ![Preview](https://github.com/FavioJasso/DiceGame/blob/main/DiceGameUML.png)
 
 **Preview of DiceGame**
+
 ![Preview](https://github.com/FavioJasso/DiceGame/blob/main/PreviewDiceGame.png)
