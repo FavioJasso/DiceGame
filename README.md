@@ -1,7 +1,7 @@
 # DiceGame
 **Overview**
 
-This project was made as my Final Project in my Computer Science 2 class at County College of Morris. The Dice Game is a JavaFX application that simulates rolling a six-sided die. The user can make a guess about the outcome of the die roll, and the application provides feedback on whether the guess is correct. The program includes classes for the dice, game logic, and the main application.
+This project was made as my Final Project in my Computer Science 2 course at County College of Morris. The Dice Game is a JavaFX application that simulates rolling a six-sided die. The user can make a guess about the outcome of the die roll, and the application provides feedback on whether the guess is correct. The program includes classes for the dice, game logic, and the main application.
 
 **Dice Game Documentation**
 
